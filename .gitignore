@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+Discretization and Binning.pdf
+fraudTest.csv
+fraudTrain.csv
